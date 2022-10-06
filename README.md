@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development, AI and Cybersecurity
 - 🌱 I’m currently learning Java and C
 - 💞️ I'm looking for an IT internship job 
-- 📫 If you want to talk, contact me: eduardojbalzan@hotmail.com
+- 📫 If you want to talk, contact me: eduardojuchembalzan@gmail.com
