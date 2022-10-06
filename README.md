@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ebalzan
-- 👀 I’m interested in web development, AI and Cybersecurity
-- 🌱 I’m currently learning Java and C
+- 👀 I’m interested in Web development, Computer Security and Cloud Computing
+- 🌱 I’m currently learning Java and C++
 - 💞️ I'm looking for an IT internship job 
 - 📫 If you want to talk, contact me: eduardojuchembalzan@gmail.com
