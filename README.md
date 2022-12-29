@@ -21,10 +21,6 @@
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edubalzan&show_icons=true" alt="edubalzan" />
-</p>
-
 <hr style="height: 2px"></hr>
 
 <p align="center">
