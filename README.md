@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eduardo J Balzan</h1>
-<h3 align="center">Hi! I'm Eduardo J Balzan, a Software Engineering student with a passion for technology. I love developing web and mobile apps.</h3>
+<h1 align="center">Hi 👋, I'm Eduardo Balzan</h1>
+<h3 align="center">Hi! I'm Eduardo Balzan, a Software Engineering student with a passion for technology. I love developing web and mobile apps.</h3>
 
 - 👀 I’m interested in web and mobile development, AI and Cloud Computing
 
