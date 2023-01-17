@@ -10,27 +10,29 @@
 ### Skills and Tools
 
 <p align="left">
-  <img style="margin: 0 10px" width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img style="margin: 0 10px" width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img style="margin: 0 10px" width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img style="margin: 0 10px" width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img style="margin: 0 10px" width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-  <img style="margin: 0 10px" width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img style="margin: 0 10px" width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" />
-  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/HTML.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Sass.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/React-Dark.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Firebase-Light.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/TypeScript.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Github-Dark.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Figma-Dark.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Java-Light.svg" />
 </p>
 
 <hr style="height: 2px"></hr>
 
 <p align="center">
   <a href="https://twitter.com/edubalz" target="blank">
-    <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg" alt="edubalzan" height="24" width="24" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Twitter.svg" alt="edubalzan" height="24" width="24" />
   </a>
   <a href="https://www.linkedin.com/in/eduardo-juchem-balzan-97848a229/" target="blank">
-    <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" alt="edubalzan" height="24" width="24" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/LinkedIn.svg" alt="edubalzan" height="24" width="24" />
   </a>
   <a href="https://www.instagram.com/edu.balzan/" target="blank">
-    <img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="edubalzan" height="24" width="24" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Instagram.svg" alt="edubalzan" height="24" width="24" />
   </a>
 </p>
