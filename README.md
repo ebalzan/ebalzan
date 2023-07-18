@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in web and mobile development.
 
-- 👨‍💻 All of my projects are available at [GitHub repositories](https://github.com/ebalzan?tab=repositories)
+- 👨‍💻 All of my projects are available at [ebalzan/repositories](https://github.com/ebalzan?tab=repositories)
 
 - 📫 How to reach me **eduardojbalzan@hotmail.com**
 
