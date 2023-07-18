@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Eduardo Balzan</h1>
+<h1 align="center">Hi 👋🏼, I'm Eduardo Balzan</h1>
 <h3 align="center">Hi! I'm Eduardo Balzan, a Software Engineering student with a passion for technology. I love developing web and mobile apps.</h3>
 
-- 👀 I’m interested in web and mobile development, AI and Cloud Computing
+- 👀 I’m interested in web and mobile development.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ebalzan?tab=repositories](https://github.com/ebalzan?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub repositories](https://github.com/ebalzan?tab=repositories)
 
 - 📫 How to reach me **eduardojbalzan@hotmail.com**
 
