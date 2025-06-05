@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [ebalzan/repositories](https://github.com/ebalzan?tab=repositories)
 
-- 📫 How to reach me **eduardojbalzan@hotmail.com**
+- 📫 How to reach me **ed25jb@outlook.com**
 
 ### Skills and Tools
 
@@ -13,9 +13,16 @@
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg" />
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/TypeScript.svg" />
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/React-Dark.svg" />
-  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg" />
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Figma-Dark.svg" />
+  </br>
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Java-Light.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Python-Light.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NodeJS-Dark.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/PostgreSQL-Light.svg" />
+  </br>
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Github-Light.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GitLab-Light.svg" />
 </p>
 
 <hr style="height: 2px"></hr>
