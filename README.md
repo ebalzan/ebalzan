@@ -13,12 +13,14 @@
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg" />
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/TypeScript.svg" />
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/React-Dark.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NextJS-Dark.svg" />
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Figma-Dark.svg" />
   </br>
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Java-Light.svg" />
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Python-Light.svg" />
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NodeJS-Dark.svg" />
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/PostgreSQL-Light.svg" />
+  <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MongoDB.svg" />
   </br>
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg" />
   <img style="margin: 0 10px" width=60 height=60 src="https://github.com/tandpfun/skill-icons/blob/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Github-Light.svg" />
